@@ -2,6 +2,8 @@
 
 A simple GUI application for synthesizing text to speech using Azure TTS via REST API.
 
+![GUI](docs/gui.png)
+
 ## Prerequisites
 
 - Python 3.11
