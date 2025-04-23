@@ -1,0 +1,4 @@
+{
+    "AZURE_SPEECH_KEY": "put_your_key_here",
+    "AZURE_SPEECH_REGION": "put_your_region_here"
+}

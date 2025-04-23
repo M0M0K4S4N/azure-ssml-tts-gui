@@ -1,0 +1,12 @@
+art==6.5
+certifi==2025.1.31
+charset-normalizer==3.4.1
+chlorophyll==0.4.2
+idna==3.10
+nava==0.7
+pygments==2.19.1
+pyperclip==1.9.0
+requests==2.32.3
+tklinenums==1.7.1
+toml==0.10.2
+urllib3==2.4.0
